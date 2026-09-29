@@ -96,6 +96,41 @@ Narrative, positioning and presence that earns attention.
 
 <br/>
 
+## `▸` THE PRODUCTS
+
+Two products, engineered and operated by ARTEFACT., deliberately separated by what they are allowed to know.
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+<a href="https://github.com/CrowdSense-Experience-Insights"><img src="https://raw.githubusercontent.com/CrowdSense-Experience-Insights/.github/main/brand/crowdsense-mark.svg" width="72" alt="CrowdSense" /></a>
+
+### [CrowdSense](https://github.com/CrowdSense-Experience-Insights)
+**Know your crowd, live.**
+<br/>Presence, dwell, occupancy and queues from Sense Nodes or the cameras you already own. Anonymous by design, works off-grid.
+<br/>*Knows how many — never who.*
+
+[![crowdsense.events](https://img.shields.io/badge/crowdsense.events-0000ee?style=for-the-badge&logo=safari&logoColor=white)](https://crowdsense.events)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<a href="https://github.com/AdmitMe-io"><img src="https://raw.githubusercontent.com/AdmitMe-io/.github/main/brand/admitme-avatar.svg" width="72" alt="AdmitMe" /></a>
+
+### [AdmitMe](https://github.com/AdmitMe-io)
+**The Event Command Centre.**
+<br/>Ticketing, site inductions and exhibitor management in one platform. Part of the CrowdSense ecosystem.
+<br/>*Knows who — and whether they are cleared.*
+
+[![admitme.io](https://img.shields.io/badge/admitme.io-ff6431?style=for-the-badge&logo=safari&logoColor=white&labelColor=171710)](https://admitme.io)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ## `▸` THE SYSTEM
 
 | Phase | What happens |
